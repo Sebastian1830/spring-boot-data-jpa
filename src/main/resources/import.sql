@@ -1,3 +1,27 @@
 /* Populate tables */
 INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (1, 'Sebastian', 'Soto', 'rsotov1@outlook.com', '2019-12-26');
 INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (2, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (3, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (4, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (5, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (6, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (7, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (8, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (9, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (10, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (11, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (12, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (13, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (14, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (15, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (16, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (17, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (18, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (19, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (20, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (21, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (22, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (23, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (24, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (25, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');
+INSERT INTO Cliente (id, nombre, apellido, email, create_at) VALUES (26, 'Ruben', 'Soto', 'rsoto@outlook.com', '2019-12-25');

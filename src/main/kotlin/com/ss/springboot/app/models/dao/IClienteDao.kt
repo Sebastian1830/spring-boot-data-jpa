@@ -1,11 +1,6 @@
 package com.ss.springboot.app.models.dao
 
 import com.ss.springboot.app.models.entity.Cliente
+import org.springframework.data.repository.PagingAndSortingRepository
 
-interface IClienteDao {
-
-    fun findAll(): List<Cliente>
-
-    fun save(cliente: Cliente)
-
-}
+interface IClienteDao: PagingAndSortingRepository<Cliente,Long>
