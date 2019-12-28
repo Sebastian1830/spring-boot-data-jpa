@@ -31,7 +31,7 @@ class PageRender<T> (var url: String, var page: Page<T> ){
         }
 
         for (i in 0 until hasta){
-            this.paginas.add(PageItem(desde + 1, paginaActual == desde + 1))
+            this.paginas.add(PageItem(desde + i, paginaActual == desde + i))
         }
     }
 
