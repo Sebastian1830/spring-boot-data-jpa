@@ -26,4 +26,6 @@ class Cliente {
     @Temporal(TemporalType.DATE)
     @DateTimeFormat(pattern = "yyyy-MM-dd")
     var createAt: Date? = null
+
+    var foto: String = ""
 }
