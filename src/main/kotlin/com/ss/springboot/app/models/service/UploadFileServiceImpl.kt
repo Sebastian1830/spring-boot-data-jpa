@@ -29,14 +29,12 @@ class UploadFileServiceImpl: IUploadFileService {
         val uniqueFileName = UUID.randomUUID().toString() + "_" + file.originalFilename
         val rootPath = getPath(uniqueFileName)
         Files.copy(file.inputStream, rootPath)
-
         return uniqueFileName
     }
 
     override fun delete(filename: String): Boolean {
         val rootPath = getPath(filename)
         val archivo = rootPath.toFile()
-
         if (archivo.exists() && archivo.canRead()){
             if (archivo.delete()){
                 return true

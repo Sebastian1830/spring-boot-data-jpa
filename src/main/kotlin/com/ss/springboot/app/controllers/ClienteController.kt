@@ -84,6 +84,8 @@ class ClienteController {
 
             flash.addFlashAttribute("info", "Ha subido correctamente la imagen $uniqueFileName")
             cliente.foto = uniqueFileName
+        } else {
+            flash.addFlashAttribute("error", "El formato de la imagen no es el permitido")
         }
 
         val mensajeFlash = if (cliente.id != null) {
